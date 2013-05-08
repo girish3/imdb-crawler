@@ -2,6 +2,7 @@ Imdb-crawler
 ============
 A crawler meant for creating movie database.It extracts the information about the movies from the IMDb websie.
 Why go on Imdb and search for movies individually when you can query your offline database the way you want,like
+
 1) get all movies of 2013 having rating more than 8.
 2) get top 10 movies(on the basis of rating) having more than 200,000 users.
 
@@ -14,6 +15,7 @@ Usage:
 ==========
 Before running the source file you need to install BeautifulSoup (parser) and sqlite3. For more information about
 the above two libraries visit:
+
 1) http://www.crummy.com/software/BeautifulSoup/
 2) http://www.sqlite.org/
 
