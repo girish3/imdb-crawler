@@ -9,11 +9,14 @@ Why go on Imdb and search for movies individually when you can query your offlin
 
 Contents:
 ==========
-The repo contains a source file 'imdb_crawler.py' and a sqlite database file 'movie_dbase' created on 5-5-13 with
-12473 unique entries.
+The repo contains a source file 'imdb_crawler.py' and a sqlite database file 'movie_dbase' created on 8-5-13 with
+57577 unique entries.
 
 Usage:
 ==========
+You do not need to run the source file as you can use the database that I have already built but if you want the latest
+information about the movies than do the following...
+
 Before running the source file you need to install BeautifulSoup (parser) and sqlite3. For more information about
 the above two libraries visit:
 
